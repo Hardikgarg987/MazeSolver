@@ -224,7 +224,7 @@ function prim_algorithm()
 				return;
 			}
 		}
-	}, 2000);
+	}, 32);
 }
 
 function maze_generators()
